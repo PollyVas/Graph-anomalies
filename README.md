@@ -34,6 +34,6 @@ The new anomaly proposed in the work occurs when vertices are removed from the g
 
 In the course of the work, algorithms for detecting three types of anomalies were programmatically implemented: anomalies of reducing partial order in the graph, anomalies of reduced execution time for tasks, and anomalies of an increased number of executors.
 
-The program was written in C# using the Visual Studio development environment with Windows Forms
+The program was written in C# using the Visual Studio development environment with Windows Forms interface.
 
 
